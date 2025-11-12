@@ -1,0 +1,16 @@
+name: python-data-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - polars
+  - numpy
+  - scipy
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - ipython
+  - notebook
